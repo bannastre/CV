@@ -1,6 +1,8 @@
-## Your Name
+## Christopher Harrop
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a Junior Full Stack Web-Developer and former British Army Officer with 10yrs experience in leadership, analytics and sales operations. I used my 6yrs in the Financial Services to shape sales decisions with insight and metrics. Now I want to use my skills to ~~break~~ make stuff.
+
+I'm looking for a Full Stack junior development role where I can continue to shape the direction of a dynamic, data driven company.
 
 ## Skills
 
