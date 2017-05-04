@@ -72,11 +72,11 @@ BA (Hons) Economics & Business Management
 *Assistant Vice President, Client Executive*
 Business Development specialist, employing an analytical approach to Client Relationship Management and building commercial advantage across regional and product lines.
 - Principal relationship owner across Product, Operations & Technology partners.
-- Consulting with C-level client partners on direction and motivation to drive budgeting and growth-planning analysis.
-- Designed, implemented and managing a global “service satisfaction” strategy to enhance data analytics through the Citi CRM platform.
-- Provide client specific insights to lead platform efficiency & rationalisation for existing structures ahead of planning and managing product enhancements.
 - Primary liaison for translating incremental business requirements, negotiating agreements and configuring deal specifications to generate $2.7mio attributable revenue in 2016.
-- Communicating key market & regulatory updates to clients, preparing clear and open channels to facilitate agreement negotiation.
+- Consulted with C-level client partners to drive budgeting and growth-planning analysis.
+- Designed, implemented and managing a global “service satisfaction” strategy to enhance data analytics through the Citi CRM platform.
+- Provided client specific insights to lead platform efficiency & rationalisation for existing structures ahead of planning and managing product enhancements.
+- Communicated key market & regulatory updates to clients, prepared clear and open channels to facilitate agreement negotiation.
 
 **JP Morgan CIB** London (2011 - 2014)
 *Associate, Marketing Support*
