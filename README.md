@@ -35,7 +35,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Comfortable under Pressure
+#### Thrives under Pressure
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -70,25 +70,27 @@ BA (Hons) Economics & Business Management
 ## Experience
 **Citi Markets** London (2014 - 2017)
 *Assistant Vice President, Client Executive*
-- Business Development RM, employing an analytical approach to developing Client Satisfaction across regional and product lines.
-- Consult with C-level client partners to understand direction and  motivation and to ensure a more effective Prime Finance product.
-- Design, implement and run a global, front-to-back Service Satisfaction data strategy.
-- Provide proactive and consultative services to 15 Prime Finance clients.
-- Host bi-monthly Service Team meetings to capture regional and client specific enhancements across Product, Operations, Technology & Change partners.
-- Drive efforts to be a Top 3 provider, identify and grow IS Wallet Share.
-
+Business Development specialist, employing an analytical approach to Client Relationship Management and building commercial advantage across regional and product lines.
+- Principal relationship owner across Product, Operations & Technology partners.
+- Consulting with C-level client partners on direction and motivation to drive budgeting and growth-planning analysis.
+- Designed, implemented and managing a global “service satisfaction” strategy to enhance data analytics through the Citi CRM platform.
+- Provide client specific insights to lead platform efficiency & rationalisation for existing structures ahead of planning and managing product enhancements.
+- Primary liaison for translating incremental business requirements, negotiating agreements and configuring deal specifications to generate $2.7mio attributable revenue in 2016.
+- Communicating key market & regulatory updates to clients, preparing clear and open channels to facilitate agreement negotiation.
 
 **JP Morgan CIB** London (2011 - 2014)
 *Associate, Marketing Support*
-- Senior team member with ownership of the Operational client relationship for the UK and Scandinavian Sales desks
+Senior Sales Operations team-member owning the client relationship for the UK and Scandinavian Sales desks.
 - Directly partnered cross–asset teams; designed and delivered a 6wk training program to offshore 12 daily processes.
-- Self-taught and incorporated VBA and SQL into controls around the flow of Cash Settlement notices. Reduced document requirement by 50% and eliminated incorrectly issued documentation.
-- Lead a 6 month project to implement standardized documentation that resulted in a 20% increase in Delta 1 Swap trading volumes.
-
+- Trusted advisor to Sales with regards operational flow and trade configuration.
+- Incorporated VBA automated controls in a strategic, data-driven initiative to reconcile
+the Delta 1 swap-trading business, resulting in a 20% increase in volumes.
+- Lead a 6 month project to remediate the flow of Cash Settlement notices and
+implement standardized documentation; reduced paper requirement by 50% and eliminated incorrectly issued documents.
 
 **British Army** Germany (2007 - 2011)
 *Captain, Squadron 2IC*
-- Tank Commander, selected above peers to take the position of Second in Command for a Squadron of 100 Cavalry Soldiers
+Tank Commander, selected above peers to take the position of Second in Command for a Squadron of 100 Cavalry Soldiers.
 - Responsible for the development, education and pastoral needs of a specialist team of 22 junior soldiers.
 - Reorganised 5 tactical units and implemented their phased, continuous training on Operations in Iraq.
 - Set the tone for core training with strategic planning and a situational leadership style.
