@@ -71,7 +71,7 @@ BA (Hons) Economics & Business Management
 **Citi Markets** London (2014 - 2017)
 *Assistant Vice President, Client Executive*
 
-⋅⋅⋅Business Development specialist, employing an analytical approach to Client Relationship Management and building commercial advantage across regional and product lines.
+Business Development specialist, employing an analytical approach to Client Relationship Management and building commercial advantage across regional and product lines.
 - Principal relationship owner across Product, Operations & Technology partners.
 - Primary liaison for translating incremental business requirements, negotiating agreements and configuring deal specifications to generate $2.7mio attributable revenue in 2016.
 - Consulted with C-level client partners to drive budgeting and growth-planning analysis.
@@ -82,7 +82,7 @@ BA (Hons) Economics & Business Management
 **JP Morgan CIB** London (2011 - 2014)
 *Associate, Marketing Support*
 
-⋅⋅⋅Senior Sales Operations team-member owning the client relationship for the UK and Scandinavian Sales desks.
+Senior Sales Operations team-member owning the client relationship for the UK and Scandinavian Sales desks.
 - Directly partnered cross–asset teams; designed and delivered a 6wk training program to offshore 12 daily processes.
 - Trusted advisor to Sales with regards operational flow and trade configuration.
 - Incorporated VBA automated controls in a strategic, data-driven initiative to reconcile
@@ -93,7 +93,7 @@ implement standardized documentation; reduced paper requirement by 50% and elimi
 **British Army** Germany (2007 - 2011)
 *Captain, Squadron 2IC*
 
-⋅⋅⋅Tank Commander, selected above peers to take the position of Second in Command for a Squadron of 100 Cavalry Soldiers.
+Tank Commander, selected above peers to take the position of Second in Command for a Squadron of 100 Cavalry Soldiers.
 - Responsible for the development, education and pastoral needs of a specialist team of 22 junior soldiers.
 - Reorganised 5 tactical units and implemented their phased, continuous training on Operations in Iraq.
 - Set the tone for core training with strategic planning and a situational leadership style.
