@@ -69,7 +69,7 @@ BA (Hons) Economics & Business Management
 
 ## Experience
 **Citi Markets** London (2014 - 2017)
-*Assistant Vice President, Client Executive*
+*Assistant Vice President, Client Executive* \n
 Business Development specialist, employing an analytical approach to Client Relationship Management and building commercial advantage across regional and product lines.
 - Principal relationship owner across Product, Operations & Technology partners.
 - Primary liaison for translating incremental business requirements, negotiating agreements and configuring deal specifications to generate $2.7mio attributable revenue in 2016.
@@ -79,7 +79,7 @@ Business Development specialist, employing an analytical approach to Client Rela
 - Communicated key market & regulatory updates to clients, prepared clear and open channels to facilitate agreement negotiation.
 
 **JP Morgan CIB** London (2011 - 2014)
-*Associate, Marketing Support*
+*Associate, Marketing Support* \n
 Senior Sales Operations team-member owning the client relationship for the UK and Scandinavian Sales desks.
 - Directly partnered cross–asset teams; designed and delivered a 6wk training program to offshore 12 daily processes.
 - Trusted advisor to Sales with regards operational flow and trade configuration.
@@ -89,7 +89,7 @@ the Delta 1 swap-trading business, resulting in a 20% increase in volumes.
 implement standardized documentation; reduced paper requirement by 50% and eliminated incorrectly issued documents.
 
 **British Army** Germany (2007 - 2011)
-*Captain, Squadron 2IC*
+*Captain, Squadron 2IC* \n
 Tank Commander, selected above peers to take the position of Second in Command for a Squadron of 100 Cavalry Soldiers.
 - Responsible for the development, education and pastoral needs of a specialist team of 22 junior soldiers.
 - Reorganised 5 tactical units and implemented their phased, continuous training on Operations in Iraq.
