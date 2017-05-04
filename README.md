@@ -14,7 +14,7 @@ For a complete list, see my [GitHub](https://github.com/bannastre?tab=repositori
 
 | Project           | Description | Technologies |
 |---                |---          |---           |
-|annachris7516.com(http://www.annachris7516.com)  | My first solo project - a handy place for guests to find information for my wedding in 2016 | HTML, CSS, Bootstrap  |
+|[annachris7516.com](http://www.annachris7516.com)  | My first solo project - a handy place for guests to find information for my wedding in 2016 | HTML, CSS, Bootstrap  |
 
 ## Skills
 
