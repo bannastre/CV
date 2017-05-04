@@ -1,12 +1,12 @@
 ## Christopher Harrop
 
+[Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Pastoral](#pastoral)
+
 I'm a Junior Full Stack Web-Developer and former British Army Officer with 10yrs experience in leadership, analytics and sales operations. I employ a consultative approach to Financial Services Sales to shape investment decisions through insight and metrics. Now I want to channel my skills and experience into ~~breaking~~ making stuff.
 
 I'm looking for a Full Stack, junior development role where I can leverage my unique skillset and continue to shape the direction of a dynamic, data driven company.
 
 **Tech Skills** : Ruby, HTML, CSS, JavaScript, jQuery, Git, Bootstrap
-
-[Projects](#projects) -- [Skills](#skills) -- [Education](#education) -- [Experience](#experience) -- [Pastoral](#pastoral)
 
 ## Projects
 
