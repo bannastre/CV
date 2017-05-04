@@ -1,23 +1,24 @@
 ## Christopher Harrop
 
-I'm a Junior Full Stack Web-Developer and former British Army Officer with 10yrs experience in leadership, analytics and sales operations. I used my 6yrs in the Financial Services to shape sales decisions with insight and metrics. Now I want to channel my skills and experience into ~~breaking~~ making stuff.
+I'm a Junior Full Stack Web-Developer and former British Army Officer with 10yrs experience in leadership, analytics and sales operations. I employ a consultative approach to Financial Services Sales to shape investment decisions through insight and metrics. Now I want to channel my skills and experience into ~~breaking~~ making stuff.
 
-I'm looking for a Full Stack junior development role where I can continue to shape the direction of a dynamic, data driven company.
+I'm looking for a Full Stack, junior development role where I can leverage my unique skillset and continue to shape the direction of a dynamic, data driven company.
 
 **Tech Skills** : Ruby, HTML, CSS, JavaScript, jQuery, Git, Bootstrap
 
+[Projects](#projects) -- [Skills](#skills) -- [Education](#education) -- [Experience](#experience) -- [Pastoral](#pastoral)
+
+## Projects
+
+For a complete list, see my [GitHub](https://github.com/bannastre?tab=repositories).
+
+| Project           | Description | Technologies |
+|---                |---          |---           |
+|annachris7516.com(http://www.annachris7516.com)  | My first solo project - a handy place for guests to find information for my wedding in 2016 | HTML, CSS, Bootstrap  |
+
 ## Skills
 
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
+#### Analytical Thinker
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -25,6 +26,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Immersive Learner
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- Experience
+- Achievements
+- Evidence
+
+#### Comfortable under Pressure
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- Experience
+- Achievements
+- Evidence
 
 ## Education
 
