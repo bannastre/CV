@@ -8,11 +8,6 @@ I'm looking for a Full Stack junior development role where I can continue to sha
 
 ## Skills
 
-<!-- Leading specialist teams on Operations in Middle East
-FCA Approved Person
-Investment Management Certificate Level 4 qualified
-Skilled in all Microsoft products (Excel, VBA, Powerpoint)
-Proficient in SQL, HTML, CSS and Javascript -->
 
 #### This Skill
 
@@ -51,7 +46,7 @@ BA (Hons) Economics & Business Management
 - University Rowing 1st VIII
 
 #### Any other qualifications
-- Chartered Institute for Securities & Investment - Derivatives & Securities Cert.
+- FCA Approved person
 - Investment Management Cert. Level 4, Modules 1&2
 - Wines & Spirits Education Trust Level 2 with Distinction
 
@@ -68,7 +63,6 @@ BA (Hons) Economics & Business Management
 
 **JP Morgan CIB** London (2011 - 2014)
 *Associate, Marketing Support*
-
 - Senior team member with ownership of the Operational client relationship for the UK and Scandinavian Sales desks
 - Directly partnered cross–asset teams; designed and delivered a 6wk training program to offshore 12 daily processes.
 - Self-taught and incorporated VBA and SQL into controls around the flow of Cash Settlement notices. Reduced document requirement by 50% and eliminated incorrectly issued documentation.
@@ -77,9 +71,13 @@ BA (Hons) Economics & Business Management
 
 **British Army** Germany (2007 - 2011)
 *Captain, Squadron 2IC*
-
 - Tank Commander, selected above peers to take the position of Second in Command for a Squadron of 100 Cavalry Soldiers
 - Responsible for the development, education and pastoral needs of a specialist team of 22 junior soldiers.
 - Reorganised 5 tactical units and implemented their phased, continuous training on Operations in Iraq.
 - Set the tone for core training with strategic planning and a situational leadership style.
 - Direct advisor to the Commanding Officer (Lt. Col) on the change of equipment care policy relating to assets worth £36m.
+
+## Pastoral
+- Communications Board-Member for the Ex-military Diversity Group. Grew network from a team of 3 to an 11 person committee. Together we ran 3 annual internships with an 85% employment rate.
+- Station volunteer for London Poppy Day, which in 2016 raised over £100K for the Royal British Legion.
+- Furnivall Rowing Club Sculler.
