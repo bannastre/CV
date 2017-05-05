@@ -2,7 +2,7 @@
 
 [Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Pastoral](#pastoral)
 
-I'm a Junior Full Stack Web-Developer and former British Army Officer with 10yrs experience in leadership, analytics and sales operations. I employ a consultative approach to Financial Services Sales to shape investment decisions through insight and metrics. Now I want to channel my skills and experience into ~~breaking~~ making stuff.
+I am a former British Army Officer with 10yrs experience in leadership, analytics and sales operations, now training to become a Full Stack Web-Developer. I have also employed a consultative approach to Financial Services Sales to shape investment decisions through insight and metrics. Now I want to channel my skills and experience into ~~breaking~~ making stuff.
 
 I'm looking for a Full Stack, junior development role where I can leverage my unique skillset and continue to shape the direction of a dynamic, data driven company.
 
@@ -20,28 +20,27 @@ For a complete list, see my [GitHub](https://github.com/bannastre?tab=repositori
 
 #### Analytical Thinker
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I designed, implemented and managed the global roll-out of a “service satisfaction” strategy to enhance data analytics through the Citi CRM platform.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Achieved this during my work at Citi, when tasked with implementing a robust means of measuring client satisfaction.
+- Contributed to the organic growth of the Prime Finance to return 16% above target in 2016.
+- Built an VBA enabled Excel database as proof of concept before transferring to a Citi proprietary CRM platform.
 
 #### Immersive Learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I gained qualifications from the Chartered Institute of Securities Investment, whilst in full-time employment, in order to became FCA qualified.
 
-- Experience
-- Achievements
-- Evidence
+- Passed the Investment Management Certificate and additional certificates in Securities and Derivatives.
+- Capitalised on this success by promoting to a front-office role, where I could build on this foundation and put theory into practice.
+- Having reignited the flame for study and not one to let an opportunity pass by, I gained a distinction in the Wine & Spirit Education Trust’s Level 2 Award and am now studying for the level 3 award.
 
 #### Thrives under Pressure
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+As a Junior Officer (2Lt), I led a team of 22 cavalry soldiers through a 2year training cycle in preparation for and then on operations in Iraq.
 
-- Experience
-- Achievements
-- Evidence
+- One of my proudest achievements, I commanded a troop of tank soldiers and attached arms as a small, independent unit.
+- Worked closely with indigenous forces (Iraqi Marines), often with the aid of an interpreter, to secure the port of Um Qasr, providing stability and enabling regrowth of the local economy.
+- Following a successful tour, I was selected above my peers to represent the British Army on a cultural exchange with the Australian Defence Force.
 
 ## Education
 
@@ -54,18 +53,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Royal Military Academy Sandhurst (Jan - Dec 2007)
-- Commissioned as an Officer from the world's premier Leadership academy
+#### Royal Military Academy Sandhurst (RMAS) (Jan - Dec 2007)
+
+Commissioned as an Officer from the national centre of excellence for leadership.
+- RMAS is where all officers in the British Army are trained to take on the responsibilities of leading the soldiers under their command.
 
 #### University of Newcastle upon Tyne  (Sep 2002 - Jul 2006)
-BA (Hons) Economics & Business Management
-- Dissertation documenting the effect of Game Theory and Collusion on an international business
-- University Rowing 1st VIII
+
+BA (Hons) Economics & Business Management.
+- Modules in Macro & Micro Economics, Risk and Uncertainty, Innovation and Creativity, and Financial Economics.
+- Dissertation documenting the effect of Game Theory and Collusion on an international business.
+- University Rowing 1st VIII.
 
 #### Any other qualifications
-- FCA Approved person
-- Investment Management Cert. Level 4, Modules 1&2
-- Wines & Spirits Education Trust Level 2 with Distinction
+- FCA Approved person.
+- Investment Management Cert. Level 4, Modules 1&2.
+- Wines & Spirits Education Trust Level 2 with Distinction.
 
 ## Experience
 **Citi Markets** London (2014 - 2017)
@@ -75,7 +78,6 @@ Business Development specialist, employing an analytical approach to Client Rela
 - Principal relationship owner across Product, Operations & Technology partners.
 - Primary liaison for translating incremental business requirements, negotiating agreements and configuring deal specifications to generate $2.7mio attributable revenue in 2016.
 - Consulted with C-level client partners to drive budgeting and growth-planning analysis.
-- Designed, implemented and managing a global “service satisfaction” strategy to enhance data analytics through the Citi CRM platform.
 - Provided client specific insights to lead platform efficiency & rationalisation for existing structures ahead of planning and managing product enhancements.
 - Communicated key market & regulatory updates to clients, prepared clear and open channels to facilitate agreement negotiation.
 
@@ -100,6 +102,6 @@ Tank Commander, selected above peers to take the position of Second in Command f
 - Direct advisor to the Commanding Officer (Lt. Col) on the change of equipment care policy relating to assets worth £36m.
 
 ## Pastoral
-- Communications Board-Member for the Ex-military Diversity Group. Grew network from a team of 3 to an 11 person committee. Together we ran 3 annual internships with an 85% employment rate.
+- Communications Board-Member for the Ex-military Diversity Group. Grew network from a team of 3 to an 11 person committee. Together we ran 3 annual internships for 75 interns with an 85% employment rate.
 - Station volunteer for London Poppy Day, which in 2016 raised over £100K for the Royal British Legion.
 - Furnivall Rowing Club Sculler.
