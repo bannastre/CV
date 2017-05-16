@@ -1,6 +1,6 @@
 ## Christopher Harrop
 
-[Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Pastoral](#pastoral)
+[Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Pastoral](#pastoral) | [Blog!](http://www.bannastre.com)
 
 I am a former British Army Officer with 10yrs experience in leadership, analytics and sales operations, now training to become a Full Stack Web-Developer. I have also employed a consultative approach to Financial Services Sales to shape investment decisions through insight and metrics. Now I want to channel my skills and experience into ~~breaking~~ making stuff.
 
