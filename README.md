@@ -14,6 +14,9 @@ For a complete list, see my [GitHub](https://github.com/bannastre?tab=repositori
 
 | Project           | Description | Technologies |
 |---                |---          |---           |
+| [Bearfoot News](https://github.com/bannastre/bearfoot-news)  | A group project to summarise news articles on a page  |  Javascript (vanilla)  |
+| [Instabann](https://instabann.herokuapp.com/)  | A solo project to consolidate my learning in Rails  | Ruby, Rails  |  
+| [Acebook](https://tranquil-reef-45735.herokuapp.com)  | A group project with students from Makers Academy - A web-app showcasing some of the features of Facebook  | Ruby, Rails, Postgresql  |
 |[annachris7516.com](http://www.annachris7516.com)  | My first solo project - a handy place for guests to find information for my wedding in 2016 | HTML, CSS, Bootstrap  |
 
 ## Skills
