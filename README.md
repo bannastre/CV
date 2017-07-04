@@ -2,11 +2,11 @@
 
 [Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Pastoral](#pastoral) | [Blog!](https://bannastre.github.io)
 
-I am a former British Army Officer with 10yrs experience in leadership, analytics and sales operations, now training to become a Full Stack Web-Developer. I have also employed a consultative approach to Financial Services Sales to shape investment decisions through insight and metrics. Now I want to channel my skills and experience into ~~breaking~~ making stuff.
+I am a former British Army Officer with 10yrs experience in leadership, analytics and sales operations, training to become a Full Stack Web-Developer. I have employed a consultative approach to Financial Services Sales, delivering insight and metrics to grow customer relationships. Now I want to channel my skills, experience and enthusiasm into ~~breaking~~ making stuff.
 
-I'm looking for a Full Stack, junior development role where I can leverage my unique skillset and continue to shape the direction of a dynamic, data driven company.
+I'm looking for a Full Stack, junior developer role where I can leverage my unique skillset and continue to shape the direction of an Agile team.
 
-**Tech Skills** : Ruby, HTML, CSS, JavaScript, jQuery, Git, Bootstrap
+**Tech Skills** : Ruby, JavaScript, jQuery, Python, Git, HTML/CSS
 
 ## Projects
 
@@ -14,9 +14,10 @@ For a complete list, see my [GitHub](https://github.com/bannastre?tab=repositori
 
 | Project           | Description | Technologies |
 |---                |---          |---           |
-| [Bearfoot News](https://github.com/bannastre/bearfoot-news)  | A group project to summarise news articles on a page  |  Javascript (vanilla)  |
-| [Instabann](https://github.com/bannastre/instagram-challenge)  | A solo project to consolidate my learning in Rails, hosted on [Heroku](https://instabann.herokuapp.com/)  | Ruby, Rails  |  
-| [Acebook](https://tranquil-reef-45735.herokuapp.com)  | A group project with students from Makers Academy - A web-app showcasing some of the features of Facebook  | Ruby, Rails, Postgresql  |
+| [Bearfoot News](https://github.com/bannastre/bearfoot-news)  | An app that summarises news articles on a single page using API calls to various sources. This was a group project run with Agile techniques |  Javascript (vanilla)  |
+| [Instabann](https://github.com/bannastre/instagram-challenge)  | A solo project to consolidate my learning in Rails. Users can post, share and comment on pictures. Hosted [here on Heroku](https://instabann.herokuapp.com/)  | Ruby, Rails  |  
+| [Acebook](https://tranquil-reef-45735.herokuapp.com)  | A web-app showcasing some of the features of Facebook. This was a group project with students from Makers Academy.  | Ruby, Rails |
+| [Chitter](https://github.com/bannastre/chitter-challenge)  | A messaging application that allows users to post messages to a public stream using a Ruby/Sinatra Model View Controller. Hosted [here on Heroku](https://chitter-feed.herokuapp.com/)  |  Ruby, Postgres, Sinatra  |
 |[annachris7516.com](http://www.annachris7516.com)  | My first solo project - a handy place for guests to find information for my wedding in 2016 | HTML, CSS, Bootstrap  |
 
 ## Skills
