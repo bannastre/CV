@@ -14,7 +14,7 @@ For a complete list, see my [GitHub](https://github.com/bannastre?tab=repositori
 
 | Project           | Description | Technologies |
 |---                |---          |---           |
-| [Bearfoot News](https://github.com/bannastre/bearfoot-news)  | An app that summarises news articles on a single page using API calls to various sources. This was a group project run with Agile techniques |  Javascript (vanilla)  |
+| [Bearfoot News](https://github.com/bannastre/bearfoot-news)  | An app that summarises news articles on a single page using API calls to various sources. This was a group project run with Agile techniques |  JavaScript (vanilla)  |
 | [Instabann](https://github.com/bannastre/instagram-challenge)  | A solo project to consolidate my learning in Rails. Users can post, share and comment on pictures. Hosted [here on Heroku](https://instabann.herokuapp.com/)  | Ruby, Rails  |  
 | [Acebook](https://tranquil-reef-45735.herokuapp.com)  | A web-app showcasing some of the features of Facebook. This was a group project with students from Makers Academy.  | Ruby, Rails |
 | [Chitter](https://github.com/bannastre/chitter-challenge)  | A messaging application that allows users to post messages to a public stream using a Ruby/Sinatra Model View Controller. Hosted [here on Heroku](https://chitter-feed.herokuapp.com/)  |  Ruby, Postgres, Sinatra  |
@@ -54,7 +54,7 @@ As a Junior Officer (2Lt), I led a team of 22 cavalry soldiers through a 2year t
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
 #### Royal Military Academy Sandhurst (RMAS) (Jan - Dec 2007)
