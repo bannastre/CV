@@ -1,4 +1,4 @@
-## Christopher Harrop
+## Christopher Harrop  
 
 [Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Pastoral](#pastoral) | [Blog!](https://bannastre.github.io)
 
@@ -109,3 +109,7 @@ Tank Commander, selected above peers to take the position of Second in Command f
 - Communications Board-Member for the Ex-military Diversity Group. Grew network from a team of 3 to an 11 person committee. Together we ran 3 annual internships for 75 interns with an 85% employment rate.
 - Station volunteer for London Poppy Day, which in 2016 raised over £100K for the Royal British Legion.
 - Furnivall Rowing Club Sculler.
+
+<p align="right"><a href="https://www.linkedin.com/in/christopher-harrop-051a2321">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42">
+</a></p>
