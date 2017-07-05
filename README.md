@@ -2,9 +2,9 @@
 
 [Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Pastoral](#pastoral) | [Blog!](https://bannastre.github.io)
 
-I am a former British Army Officer with 10yrs experience in leadership, analytics and sales operations, training to become a Full Stack Web-Developer. I have employed a consultative approach to Financial Services Sales, delivering insight and metrics to grow customer relationships. Now I want to channel my skills, experience and enthusiasm into ~~breaking~~ making stuff.
+I'm a Full-Stack Web-Developer and former British Army Officer with 10yrs experience in operational leadership and financial services sales. After an intensive, 12 week coding bootcamp at [Makers Academy](http://www.makersacademy.com/curriculum/), I  want to channel my skills and enthusiasm into ~~breaking~~ making stuff.
 
-I'm looking for a Full Stack, junior developer role where I can leverage my unique skillset and continue to shape the direction of an Agile team.
+I'm looking for a full-stack, junior developer role where I can leverage my broader experience and help to shape the direction of an Agile team.
 
 **Tech Skills** : Ruby, JavaScript, jQuery, Python, Git, HTML/CSS
 
@@ -14,9 +14,8 @@ For a complete list, see my [GitHub](https://github.com/bannastre?tab=repositori
 
 | Project           | Description | Technologies |
 |---                |---          |---           |
-| [Bearfoot News](https://github.com/bannastre/bearfoot-news)  | An app that summarises news articles on a single page using API calls to various sources. This was a group project run with Agile techniques |  JavaScript (vanilla)  |
-| [Instabann](https://github.com/bannastre/instagram-challenge)  | A solo project to consolidate my learning in Rails. Users can post, share and comment on pictures. Hosted [here on Heroku](https://instabann.herokuapp.com/)  | Ruby, Rails  |  
-| [Acebook](https://tranquil-reef-45735.herokuapp.com)  | A web-app showcasing some of the features of Facebook. This was a group project with students from Makers Academy.  | Ruby, Rails |
+| [Bearfoot News](https://github.com/bannastre/bearfoot-news)  | An app that summarises news articles on a single page using API calls to various sources. This was a group project where the team adhered closely to Agile techniques |  JavaScript (vanilla)  |
+| [Acebook](https://tranquil-reef-45735.herokuapp.com)  | A social web-app where users can post, comment and like shared messages. This was a group project with students from Makers Academy.  | Ruby, Rails |
 | [Chitter](https://github.com/bannastre/chitter-challenge)  | A messaging application that allows users to post messages to a public stream using a Ruby/Sinatra Model View Controller. Hosted [here on Heroku](https://chitter-feed.herokuapp.com/)  |  Ruby, Postgres, Sinatra  |
 |[annachris7516.com](http://www.annachris7516.com)  | My first solo project - a handy place for guests to find information for my wedding in 2016 | HTML, CSS, Bootstrap  |
 
@@ -24,10 +23,10 @@ For a complete list, see my [GitHub](https://github.com/bannastre?tab=repositori
 
 #### Analytical Thinker
 
-I designed, implemented and managed the global roll-out of a “service satisfaction” strategy to enhance data analytics through the Citi CRM platform.
+I designed and managed the global implementation of a “service satisfaction” strategy to enhance data analytics through the Citi CRM platform.
 
-- Achieved this during my work at Citi, when tasked with implementing a robust means of measuring client satisfaction.
-- Contributed to the organic growth of the Prime Finance to return 16% above target in 2016.
+- Achieved this during my work as a principal relationship owner at Citi, tasked with implementing a robust means of measuring client satisfaction.
+- Contributed to the organic growth of the Prime Finance to return 16% above target and generating $2.7mio attributable revenue in 2016.
 - Built an VBA enabled Excel database as proof of concept before transferring to a Citi proprietary CRM platform.
 
 #### Immersive Learner
@@ -50,11 +49,10 @@ As a Junior Officer (2Lt), I led a team of 22 cavalry soldiers through a 2year t
 
 #### Makers Academy (May - July 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Curiosity and a passion for solving problems with code
+- Object Oriented Programming and XP Principles
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
+- Ruby, Rails, JavaScript, Node.js, Python
 - Rspec, Jasmine, Mocha
 
 #### Royal Military Academy Sandhurst (RMAS) (Jan - Dec 2007)
@@ -69,7 +67,7 @@ BA (Hons) Economics & Business Management.
 - Dissertation documenting the effect of Game Theory and Collusion on an international business.
 - University Rowing 1st VIII.
 
-#### Any other qualifications
+#### Other qualifications
 - FCA Approved person.
 - Investment Management Cert. Level 4, Modules 1&2.
 - Wines & Spirits Education Trust Level 2 with Distinction.
@@ -77,33 +75,18 @@ BA (Hons) Economics & Business Management.
 ## Experience
 **Citi Markets** London (2014 - 2017)
 *Assistant Vice President, Client Executive*
+- Business Development specialist, employing an analytical approach to Client Relationship Management and building commercial advantage across regions with Product, Operations & Technology partners.
 
-Business Development specialist, employing an analytical approach to Client Relationship Management and building commercial advantage across regional and product lines.
-- Principal relationship owner across Product, Operations & Technology partners.
-- Primary liaison for translating incremental business requirements, negotiating agreements and configuring deal specifications to generate $2.7mio attributable revenue in 2016.
-- Consulted with C-level client partners to drive budgeting and growth-planning analysis.
-- Provided client specific insights to lead platform efficiency & rationalisation for existing structures ahead of planning and managing product enhancements.
-- Communicated key market & regulatory updates to clients, prepared clear and open channels to facilitate agreement negotiation.
 
 **JP Morgan CIB** London (2011 - 2014)
 *Associate, Marketing Support*
+- Senior Sales Operations team-member owning the client relationship for the UK and Scandinavian Sales desks.
 
-Senior Sales Operations team-member owning the client relationship for the UK and Scandinavian Sales desks.
-- Directly partnered cross–asset teams; designed and delivered a 6wk training program to offshore 12 daily processes.
-- Trusted advisor to Sales with regards operational flow and trade configuration.
-- Incorporated VBA automated controls in a strategic, data-driven initiative to reconcile
-the Delta 1 swap-trading business, resulting in a 20% increase in volumes.
-- Lead a 6 month project to remediate the flow of Cash Settlement notices and
-implement standardized documentation; reduced paper requirement by 50% and eliminated incorrectly issued documents.
 
 **British Army** Germany (2007 - 2011)
 *Captain, Squadron 2IC*
-
-Tank Commander, selected above peers to take the position of Second in Command for a Squadron of 100 Cavalry Soldiers.
-- Responsible for the development, education and pastoral needs of a specialist team of 22 junior soldiers.
-- Reorganised 5 tactical units and implemented their phased, continuous training on Operations in Iraq.
-- Set the tone for core training with strategic planning and a situational leadership style.
-- Direct advisor to the Commanding Officer (Lt. Col) on the change of equipment care policy relating to assets worth £36m.
+- Tank Commander and Second in Command for a Squadron of 100 Cavalry Soldiers.
+- Responsible for the development, education and pastoral needs of 22 junior soldiers through continuous training and on Operations in Iraq
 
 ## Pastoral
 - Communications Board-Member for the Ex-military Diversity Group. Grew network from a team of 3 to an 11 person committee. Together we ran 3 annual internships for 75 interns with an 85% employment rate.
