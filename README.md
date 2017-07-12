@@ -6,7 +6,7 @@ I'm a Full-Stack Web-Developer and former British Army Officer with 10yrs experi
 
 I'm looking for a full-stack, junior developer role where I can leverage my broader experience and help to shape the direction of an Agile team.
 
-**Tech Skills** : Ruby, JavaScript, jQuery, Python, Git, HTML/CSS
+**Tech Skills** : Ruby, Rails, JavaScript, jQuery,  Node.js, Python, Rspec, Jasmine, Mocha, Git, HTML/CSS
 
 ## Projects
 
@@ -53,20 +53,14 @@ As a Junior Officer (2Lt), I led a team of 22 cavalry soldiers through a 2year t
 - Curiosity and a passion for solving problems with code
 - Object Oriented Programming and XP Principles
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Python
-- Rspec, Jasmine, Mocha
 
 #### Royal Military Academy Sandhurst (RMAS) (Jan - Dec 2007)
 
 Commissioned as an Officer from the national centre of excellence for leadership.
-- RMAS is where all officers in the British Army are trained to take on the responsibilities of leading the soldiers under their command.
 
 #### University of Newcastle upon Tyne  (Sep 2002 - Jul 2006)
 
 BA (Hons) Economics & Business Management.
-- Modules in Macro & Micro Economics, Risk and Uncertainty, Innovation and Creativity, and Financial Economics.
-- Dissertation documenting the effect of Game Theory and Collusion on an international business.
-- University Rowing 1st VIII.
 
 #### Other qualifications
 - FCA Approved person.
