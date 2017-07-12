@@ -64,8 +64,6 @@ BA (Hons) Economics & Business Management.
 
 #### Other qualifications
 - FCA Approved person.
-- Investment Management Cert. Level 4, Modules 1&2.
-- Wines & Spirits Education Trust Level 2 with Distinction.
 
 ## Experience
 **Citi Markets** London (2014 - 2017)
@@ -86,6 +84,7 @@ BA (Hons) Economics & Business Management.
 ## Pastoral
 - Communications Board-Member for the Ex-military Diversity Group. Grew network from a team of 3 to an 11 person committee. Together we ran 3 annual internships for 75 interns with an 85% employment rate.
 - Station volunteer for London Poppy Day, which in 2016 raised over £100K for the Royal British Legion.
+- Wines & Spirits Education Trust Level 2 with Distinction.
 - Furnivall Rowing Club Sculler.
 
 <p align="right"><a href="https://www.linkedin.com/in/christopher-harrop-051a2321">
