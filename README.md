@@ -26,16 +26,16 @@ For a complete list, see my [GitHub](https://github.com/bannastre?tab=repositori
 
 I designed and managed the global implementation of a “service satisfaction” strategy to enhance data analytics through the Citi CRM platform.
 
+- Built an VBA enabled Excel database as proof of concept before transferring to a Citi proprietary CRM platform.  
 - Achieved this during my work as a principal relationship owner at Citi, tasked with implementing a robust means of measuring client satisfaction.
-- Contributed to the organic growth of the Prime Finance to return 16% above target and generating $2.7mio attributable revenue in 2016.
-- Built an VBA enabled Excel database as proof of concept before transferring to a Citi proprietary CRM platform.
+- Contributed to the organic growth of the Prime Finance to return 16% above target and generating $2.7mio attributable revenue in 2016.  
 
 #### Immersive Learner
 
-I gained qualifications from the Chartered Institute of Securities Investment, whilst in full-time employment, in order to became FCA qualified.
+Prior to Makers Academy, I gained qualifications from the Chartered Institute of Securities Investment, whilst in full-time employment and became FCA qualified.
 
 - Passed the Investment Management Certificate and additional certificates in Securities and Derivatives.
-- Capitalised on this success by promoting to a front-office role, where I could build on this foundation and put theory into practice.
+- Capitalised on this success by promoting to a front-office role, where I could keep learning and put theory into practice.
 - Having reignited the flame for study and not one to let an opportunity pass by, I gained a distinction in the Wine & Spirit Education Trust’s Level 2 Award and am now studying for the level 3 award.
 
 #### Thrives under Pressure
