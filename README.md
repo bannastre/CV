@@ -14,6 +14,7 @@ For a complete list, see my [GitHub](https://github.com/bannastre?tab=repositori
 
 | Project           | Description | Technologies |
 |---                |---          |---           |
+| [Ductu](https://github.com/rogrenke/to-learn-list) | A platform that aims to bring together Mentees and Mentors, inviting them to share content and feedback more effectively. | Express, Node.js, ES6 |  
 | [Bearfoot News](https://github.com/bannastre/bearfoot-news)  | An app that summarises news articles on a single page using API calls to various sources. This was a group project where the team adhered closely to Agile techniques |  JavaScript (vanilla)  |
 | [Acebook](https://tranquil-reef-45735.herokuapp.com)  | A social web-app where users can post, comment and like shared messages. This was a group project with students from Makers Academy.  | Ruby, Rails |
 | [Chitter](https://github.com/bannastre/chitter-challenge)  | A messaging application that allows users to post messages to a public stream using a Ruby/Sinatra Model View Controller. Hosted [here on Heroku](https://chitter-feed.herokuapp.com/)  |  Ruby, Postgres, Sinatra  |
