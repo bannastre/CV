@@ -1,6 +1,7 @@
 ## Christopher Harrop  
+[bannastre@gmail.com](mailto:bannastre@gmail.com)
 
-[Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Pastoral](#pastoral) | [Blog!](https://bannastre.github.io)
+[Projects](#projects)  |  [Skills](#skills)  |  [Education](#education)  |  [Experience](#experience)  |  [Pastoral](#pastoral) | [Blog!](https://bannastre.github.io) | 
 
 I'm a Full-Stack Web-Developer and former British Army Officer with 10yrs experience in operational leadership and financial services sales. After an intensive, 12 week coding bootcamp at [Makers Academy](http://www.makersacademy.com/curriculum/), I  want to channel my skills and enthusiasm into ~~breaking~~ making stuff.
 
