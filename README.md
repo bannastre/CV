@@ -12,8 +12,6 @@ I'm an Engineering Leader with 16 years experience across software delivery, str
 
 **Tech Skills** : JavaScript / TypeScript (Node.js), Kotlin (Spring), React, Vue, AWS / Azure, K8s, Docker, Serverless (AWS Lambda).
 
----
-
 <!-- ## Projects
 
 The majority of my work has been for private clients at [BRYTER](https://www.bryter.io) and [Jigsaw.xyz](https://www.jigsaw.xyz/). This is a small sample of some personal projects I have worked on. For a more current and complete list, see my [GitHub Repo's](https://github.com/bannastre?tab=repositories).
