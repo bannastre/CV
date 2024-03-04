@@ -1,15 +1,8 @@
-<h1>Christopher Harrop
-    <div class=logos>
-        <a href="https://www.linkedin.com/in/christopher-harrop">
-            <img src="./LI-In-Bug.png" alt="linkedin" height="30" width="auto" align="right">
-        </a>
-        <a href="https://www.medium.com/@bannastre">
-            <img src="./Medium-Symbol-Black-CMYK@1x.png" alt="medium" height="30" width="auto" align="right">
-        </a>
-    </div>
-</h1>
+# Christopher Harrop
 
-## [bannastre@gmail.com](mailto:bannastre@gmail.com)
+**[harrop.ch@gmail.com](mailto:harrop.ch@gmail.com)**
+
+[<img src="./LI-In-Bug.png" alt="linkedin" height="30" width="auto">](https://www.linkedin.com/in/christopher-harrop) [<img src="./Medium-Symbol-Black-CMYK@1x.png" alt="medium" height="30" width="auto">](https://www.medium.com/@bannastre)
 
 <!-- [Projects](##projects) |  -->
 
